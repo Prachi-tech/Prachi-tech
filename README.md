@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prachi-tech
-- 👀 I'm a first-year B.Tech student in Information Technology atCollege of Technology [Pantnagar University].
+- 👀 I'm a second-year B.Tech student in Information Technology atCollege of Technology [Pantnagar University].
 - 🌱 I have a strong interest in software development, especially in Python and web development.
 - 
 - ## What I'm Working On
